@@ -15,9 +15,3 @@
 ![void](void.png)
 
 #### ~~Is... his / her name "void*" too?~~
-
-# Introduction to Assembly Programming
-
----
-![crowbar](crowbar.jpg)
-![gravity_gun](gravity_gun.jpg)
