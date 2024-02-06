@@ -14,4 +14,7 @@
 #### ~~Title : Sir, "goto void" is same with "jmp void".<br>~~
 ![void](void.png)
 
+![father_usa](father_usa.png)
+![your_father](canvas.png)
+
 #### ~~Is... his / her name "void*" too?~~
