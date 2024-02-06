@@ -18,5 +18,6 @@
 # Introduction to C++ Programming
 
 ---
-![father_usa](father_usa.png)
-![your_father](canvas.png)
+![no_father](no_father.png)
+![father_usa](father_usa.png) 
+![father_heaven](father_heaven.png)
